@@ -44,6 +44,8 @@ Each trade is merged to the Fear & Greed classification of its calendar day (211
 ## Reproducing
 
 ```bash
+git clone https://github.com/rhushi8/ds_rhushikesh.git
+cd ds_rhushikesh
 pip install pandas numpy scipy matplotlib
 jupyter notebook notebook_1.ipynb   # paths are relative to the repo root
 ```
